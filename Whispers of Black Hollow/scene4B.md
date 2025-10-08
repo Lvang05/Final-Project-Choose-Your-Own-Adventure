@@ -1,16 +1,12 @@
 
-# 🏃 Scene 4B: Second Thoughts
+# 📵 SCENE 4B - Phone Dies
 
-You panic and bolt from Old Ken’s cave, running until your lungs burn. But when you return home… it’s too late.
+Your flashlight dies. You hear something behind you whisper:
 
-Troopers in white armor have razed the farm. Your family is gone. The droid, missing.
+"So close now…"
 
-You fall to your knees. This wasn’t just some message — this was war.
+## What do you do?
 
-Old Ken appears behind you.
+- 👁️ [Turn to face it](./scene5C.md)
 
-> “There’s no going back. But there is a path forward.”
-
-- 💥 [Join Old Ken and fight for the rebellion](./scene5A.md)
-
-- 🛩️ [Steal a local speeder and try to escape the planet](./scene5C.md)
+- 🌾 [Hide in the bushes](./scene5D.md)

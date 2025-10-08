@@ -1,12 +1,12 @@
 
-# 📣 Scene 4D: A Call For Help
+# 🪦 SCENE 4D - Backseat Haunting
 
-You shout, and from the canyon walls a hooded figure appears — *Old Ken*. With a wave of his hand and a few quick moves of his glowing blade, the scavengers flee.
+You hide in the car.
 
-> “You’ve got courage. But you'll need more than that.”
+A hand presses against the window - from inside.
 
-He invites you both to his home.
+## What do you do?
 
-- 🧠 [Learn the truth about the Dominion and the Spark](./scene5D.md)
+- ⛏️ [Break the window and escape](./scene5G.md)
 
-- 🧳 [Ask for his help escaping the planet](./scene5C.md)
+- 😱 [Play dead and wait](./scene5H.md)

@@ -1,16 +1,12 @@
 
-# 🏜️ Scene 3A: The Canyon Hermit
+# 🕯️ SCENE 3A - Into the Forest
 
-You sneak away under the twin suns and head into the rocky canyonlands. After hours of walking, a hooded figure steps from the shadows.
+You find a rusted lantern hanging from a branch.
 
-> “You’ve come a long way, traveler… I am Old Ken.”
+A note dangles below: "Don’t trust the light."
 
-He listens to your story, then shows you a hidden device — a glowing blade of energy once wielded by defenders of peace.
+## What do you do?
 
-> “This was your father's. The Dominion hunted our kind. But the spark lives on… in you.”
+- 🕯️ [Take the lantern and walk](./scene4A.md)
 
-What now?
-
-- ⚔️ [Train with Old Ken and learn the ways of the spark](./scene4A.md)
-
-- 🏃 [This is too much — run back home before things get worse](./scene4B.md)
+- 📱 [Use your phone flashlight instead](./scene4B.md)

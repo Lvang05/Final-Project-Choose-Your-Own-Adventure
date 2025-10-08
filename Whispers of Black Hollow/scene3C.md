@@ -1,12 +1,13 @@
 
-# 🚔 Scene 3C: The Authorities
+# 🎒 SCENE 3C - Back to the Hollow
 
-You report the message to the local enforcers. They thank you… then seize the droid. You overhear one mention a bounty from the Dominion.
+The woods feel familiar. The road fades behind you.
 
-Later that night, your homestead is stormed by black-armored troopers. Your home is in ruins. The message — and your family — are gone.
+"Welcome back."
+The trees lean in as you pass the crooked sign.
 
-You’ve made a terrible mistake.
+## What do you do?
 
-- 🔥 [Swear vengeance and go into hiding](./scene4F.md)
+- 🌌 [Take the trail to the graveyard](./scene4E.md)
 
-- 💼 [Try to join the Dominion as a cadet to learn their secrets](./scene4G.md)
+- 🔍 [Try to find another path](./scene4F.md)

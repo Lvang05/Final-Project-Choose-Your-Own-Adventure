@@ -1,14 +1,12 @@
 
-# 🔥 Scene 4F: A Spark of Vengeance
+# 🌌 SCENE 4F - Echo Town
 
-Everything you cared about is gone. You retreat to the wilds with only the clothes on your back.
+You find a copy of your hometown - empty.
 
-Old Ken finds you days later.
+Everything looks the same… but twisted.
 
-> “Revenge burns hot. But it burns *you* too. There's still a way to fight — the *right* way.”
+## What do you do?
 
-Do you…
+- 🏚️ [Explore the houses](./scene5K.md)
 
-- 🌌 [Join the rebellion to stop the Dominion](./scene5A.md)
-
-- 🕵️ [Try to go undercover and spy on the Dominion](./scene5E.md)
+- 🧭 [Escape through the woods](./scene5L.md)

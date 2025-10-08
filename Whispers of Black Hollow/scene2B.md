@@ -1,10 +1,12 @@
 
-# 🤖 Scene 2B: Glitch? Or Something More?
+# 🔥 SCENE 2B: Burned Invitation
 
-You brush it off. Probably just a corrupted message from some old battle. Still, something about it lingers in your mind.
+You burn the letter. That night you dream of soil and roots pulling you underground.
 
-That night, you hear strange sounds outside. Lights in the sky. Maybe it wasn’t just a glitch…
+When you wake... the letter is back.
 
-- 🌠 [Investigate the lights in the sky](./scene3D.md)
+## What do you do?
 
-- 🛏️ [Stay inside — no good comes from chasing trouble](./scene3E.md)
+- 🚗 [Go to Black Hollow after all.](./scene3C.md)
+
+- 📘 [Research "Black Hollow" at the library](./scene3D.md)

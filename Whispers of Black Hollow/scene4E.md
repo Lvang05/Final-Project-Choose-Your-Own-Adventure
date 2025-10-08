@@ -1,12 +1,11 @@
 
-# 🕳️ Scene 4E: Rock and Run
+# ⚰️ SCENE 4E - The Graveyard Gate
 
-You dive behind the rocks, dragging your friend with you. You zigzag through the canyon until you’re hopelessly lost.
+An open grave waits. It has your name on it.
 
-Just as panic starts to set in, a soft blue glow lights up the path ahead.
+"One must return to close it."
 
-> “You're not the first to get lost here,” says a calm voice.
+## What do you do?
 
-It’s Old Ken.
-
-- ✨ [Accept his help and follow him](./scene5D.md)
+- 🪓 [Climb in](./scene5I.md)
+- 🏃 [Turn back](./scene5J.md)

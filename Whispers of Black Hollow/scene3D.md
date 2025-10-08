@@ -1,16 +1,14 @@
 
-# 🌠 Scene 3D: Lights in the Sky
+# 📚 SCENE 3D - Library Research
 
-You sneak out that night and climb a nearby ridge. In the distance, streaks of fire dance across the sky — something just crash-landed in the canyon.
+The librarian whispers:
 
-As you get closer, you find a smoldering escape pod. The droid is gone.
+"That place was erased for a reason."
 
-But you do find part of a broken recording:
+She hands you a dusty file: Black Hollow, 1954
 
-> “...Old Ken... the plans… must not fall into...”
+## What do you do?
 
-Suddenly, a shadow looms behind you — a cloaked scavenger!
+- 📂 [Read the file](./scene4G.md)
 
-- 🏃 [Run back to your farm as fast as you can](./scene4B.md)
-
-- 🧭 [Follow the scavenger and try to find the droid](./scene4E.md)
+- 🧑‍✈️ [Take the file to the police](./scene4H.md)

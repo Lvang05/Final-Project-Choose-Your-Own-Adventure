@@ -1,14 +1,12 @@
 
-# 📡 Scene 2A: The Hidden Message
+# 🌲 SCENE 2A: Road to Black Hollow
 
-You tinker with the droid and unlock the full message. A cloaked woman pleads for help from someone named *Old Ken Benobi*, who supposedly lives nearby in the canyons.
+The trees lean toward you. Fog wraps around your car. A crooked sign:
 
-> "This must be the old hermit people whisper about," you think to yourself.
+Welcome to Black Hollow - Population: ∞
 
-What now?
+## What do you do?
 
-- 🏜️ [Sneak out to find the hermit yourself](./scene3A.md)
+- 🌲 [Follow the trail into the woods](./scene3A.md)
 
-- 🤝 [Wait for nightfall and ask a friend to come with you](./scene3B.md)
-
-- 🚔 [Report this to the local authorities](./scene3C.md)
+- 🚘 [Stay in the car and wait it out](./scene3B.md)
