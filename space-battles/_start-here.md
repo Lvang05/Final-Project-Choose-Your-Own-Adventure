@@ -1,14 +1,20 @@
+# 👻 Whispers of Black Hollow
+It started with a letter — handwritten in ink that smelled of ash, sealed with a name that should’ve stayed in the ground. Your grandfather’s name. But he’s been dead for nearly a decade.
 
-# Space Battles - Episode IV: A New Spark
+The letter calls you to Black Hollow, a village wiped from all records, its name scratched out of history like a curse. It’s a place no map shows and no local dares to speak of. A place where the trees lean too close, and the shadows don’t follow the rules of light.
 
-## 🎬 Opening Crawl
+Driven by a mix of curiosity, dread, and something you can’t explain — you go.
 
-### EPISODE IV: A NEW SPARK
+But Black Hollow isn’t just a place. 
 
-It is a time of rebellion. Scattered freedom fighters wage a desperate war against a tyrannical Galactic Dominion that rules the stars with an iron grip.
+It’s a memory. A wound. A gate.
 
-In a daring strike, the rebels have acquired secret plans to the Dominion’s ultimate weapon — a moon-sized battle station with the power to destroy entire planets.
+And it’s been waiting for you.
 
-Pursued by Dominion warships, a lone diplomatic cruiser races home, carrying hope for the galaxy… and destiny for a farm boy on a forgotten desert world.
+You will choose.
 
+You will uncover.
+
+You will either escape with the truth…
+Or become part of the whispering woods forever.
 - 🚀 [Begin your journey](./scene1.md)
