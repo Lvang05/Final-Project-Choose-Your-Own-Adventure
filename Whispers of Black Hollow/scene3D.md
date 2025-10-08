@@ -11,4 +11,4 @@ She hands you a dusty file: Black Hollow, 1954
 
 - 📂 [Read the file](./scene4G.md)
 
-- 🧑‍✈️ [Take the file to the police](./scene4H.md)
+- 🚓 [Take the file to the police](./scene4H.md)
