@@ -1,10 +1,15 @@
 
-# 🧠 Scene 5D: Secrets of the Spark
+# 🪦 SCENE 5D — Still
+A hand touches your shoulder.
 
-Old Ken tells you the truth — long ago, protectors known as “Sparkbearers” stood against the Dominion. But they were hunted down, betrayed by one of their own: a masked enforcer who now serves as the Emperor’s right hand.
+You freeze.
+Play dead.
 
-You begin to feel the Spark — and your own connection to it.
+Something sits beside you.
+Breathing.
+Then-
+>“That’s better.”
+## ❌ GAME OVER
+You're not pretending anymore.
 
-Suddenly, a message comes through: the cloaked woman is held prisoner aboard the Dominion’s battle station.
-
-- 🛰️ [Join a risky mission to rescue her](./scene6B.md)
+- 🪶 [Restart](.scene1.md)

@@ -2,7 +2,7 @@
 
 You receive a letter sealed in old wax.
 
-"Come to Black Hollow. Midnight. Inherit your legacy."
+>"Come to Black Hollow. Midnight. Inherit your legacy."
 
 Signed by your grandfather - dead for 8 years.
 

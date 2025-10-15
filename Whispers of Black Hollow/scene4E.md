@@ -1,11 +1,17 @@
 
-# ⚰️ SCENE 4E - The Graveyard Gate
+# 🧑‍✈️ SCENE 4E — Case Closed
+You hand over the file.
 
-An open grave waits. It has your name on it.
+The officer barely looks at it.
+>"That case is closed."
 
-"One must return to close it."
+He locks it in a drawer.
+Walks away.
+
+No questions.
+No explanation.
 
 ## What do you do?
 
-- 🪓 [Climb in](./scene5I.md)
-- 🏃 [Turn back](./scene5J.md)
+- 🚗 [Go to Black Hollow at midnight](scene2A.md)
+- 🏃 [Forget it and go home](./scene5E.md)

@@ -1,13 +1,14 @@
 
-# 🎒 SCENE 3C - Back to the Hollow
+# 📚 SCENE 3D - Library Research
 
-The woods feel familiar. The road fades behind you.
+The librarian whispers:
 
-"Welcome back."
-The trees lean in as you pass the crooked sign.
+>"That place was erased for a reason."
+
+She hands you a dusty file: Black Hollow, 1954
 
 ## What do you do?
 
-- 🌌 [Take the trail to the graveyard](./scene4E.md)
+- 📂 [Read the file](./scene4D.md)
 
-- 🔍 [Try to find another path](./scene4F.md)
+- 🚓 [Take the file to the police](./scene4E.md)

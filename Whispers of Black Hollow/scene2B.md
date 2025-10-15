@@ -7,6 +7,6 @@ When you wake... the letter is back.
 
 ## What do you do?
 
-- 🚗 [Go to Black Hollow after all.](./scene3C.md)
+- 🚗 [Go to Black Hollow at midnight](scene2A.md)
 
-- 📘 [Research "Black Hollow" at the library](./scene3D.md)
+- 📘 [Research "Black Hollow" at the library](./scene3C.md)

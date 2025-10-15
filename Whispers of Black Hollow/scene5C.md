@@ -1,12 +1,17 @@
 
-# 🛩️ Scene 5C: Escape the Planet
+# 🌑 SCENE 4B - No Light
 
-You steal a speeder and race toward the spaceport. Dominion patrols block every main route, but with luck — and help from a rebel contact — you reach an old freighter and blast off.
+You turn around.
+A figure stands inches from your face.
 
-The pilot, a charming rogue, raises an eyebrow.
+Tall.
+Still.
 
-> “You’ve stirred up a lot of trouble. Got any plans?”
+Its face is pale and stretched, like wax melted wrong.
+And it’s breathing through your silence.
 
-- 📡 [Share the droid’s message and warn the rebellion](./scene6A.md)
+## ❌ GAME OVER
+You didn't take the light.
+Now it wears your shadow.
 
-- 👸 [Ask for help rescuing the cloaked woman from the battle station](./scene6B.md)
+- 🪶 [Restart](.scene1.md)

@@ -1,12 +1,15 @@
 
-# 🚀 Scene 5A: To the Rebellion
+# 🗝️ SCENE 5A — The Key
+You take the key.
 
-You and Old Ken find a rogue pilot and his hairy co-pilot at a grimy spaceport. They agree to fly you off-world — for a price.
+It burns cold in your hand.
+Something deep in the woods begins to stir.
 
-As Dominion forces close in, you escape in their modified freighter, barely dodging laser fire.
+The eyeless man smiles.
+>"The gate knows you now."
 
-> “Hang on, kid!” the pilot shouts. “Next stop: rebel command.”
+### What do you do?
 
-- 🌌 [Head straight to the rebellion with the droid and its data](./scene6A.md)
+- 🚪 [Unlock the gate](./scene6A.md)
 
-- 🛰️ [Intercept a Dominion transmission — the cloaked woman is being held on the battle station!](./scene6B.md)
+- ❌ [Drop the key and run](./scene5B.md)

@@ -1,9 +1,11 @@
 
-# 👁️ SCENE 4A - The Eyeless Man
-
-"You broke the seal. The gate is open again."
-
-He offers you a key.
+# 🔑 SCENE 4A - The Gate
+Your lantern flickers.
+A stone gate stands ahead - cracked, pulsing.
+A man waits beside it, not moving.
+He turns. No eyes.
+A key in his hand.
+>"The gate is open. It needs a keeper."
 
 ## What do you do?
 

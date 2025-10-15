@@ -1,12 +1,19 @@
 
-# 📵 SCENE 4B - Phone Dies
+# 🌑 SCENE 4B - No Light
+You leave the lantern behind
+and walk into the dark.
 
-Your flashlight dies. You hear something behind you whisper:
+The forest falls silent.
+You can’t see your hands-
+only shifting shapes in the black.
 
-"So close now…"
+Ahead, something sways.
+You blink.
+It’s gone.
+
+Then…
+a breath behind you.
 
 ## What do you do?
 
-- 👁️ [Turn to face it](./scene5C.md)
-
-- 🌾 [Hide in the bushes](./scene5D.md)
+- 👁️ [Turn around to face it](./scene5C.md)

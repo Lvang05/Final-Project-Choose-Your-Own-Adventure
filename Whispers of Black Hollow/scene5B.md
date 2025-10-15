@@ -1,10 +1,24 @@
 
-# 🧘 Scene 5B: Training Delay
+# 🏃‍♂️ SCENE 5B - Nowhere to Run
+You turn and run.
 
-You ask Old Ken for more time to train. He agrees, but warns: “The Spark grows stronger in action.”
+Branches tear at your sleeves.
+The gate vanishes behind the trees.
 
-That night, he receives word: the cloaked woman has been captured. The Dominion’s battle station is on the move — and it’s heading for her homeworld.
+You glance over your shoulder-
+he’s gone.
 
-You can’t wait any longer.
+You slow.
+Breathe.
+Then turn back.
 
-- 🛩️ [Find a pilot and flee the planet with Ken](./scene5A.md)
+He’s right in front of you.
+No eyes.
+No space between.
+>“Found you.”
+
+## ❌ GAME OVER
+You didn’t run fast enough.
+You never could.
+
+- 🪶 [Restart](.scene1.md)

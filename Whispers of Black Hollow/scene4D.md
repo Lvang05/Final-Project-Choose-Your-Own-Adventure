@@ -1,12 +1,19 @@
 
-# 🪦 SCENE 4D - Backseat Haunting
+# 📂 SCENE 4G - The File
+The names are all crossed out—
+except one: yours.
 
-You hide in the car.
+You flip through.
 
-A hand presses against the window - from inside.
+Photos.
+Eyes scratched out.
+Notes in red ink: 
+>"He never died. He changed his name."
+
+The next page is warm.
 
 ## What do you do?
 
-- ⛏️ [Break the window and escape](./scene5G.md)
+- 🚗 [Go to Black Hollow at midnight](scene2A.md)
 
-- 😱 [Play dead and wait](./scene5H.md)
+- 🚓 [Take the file to the police](./scene4E.md)

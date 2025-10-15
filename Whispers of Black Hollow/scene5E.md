@@ -1,10 +1,20 @@
 
-# 🕵️ Scene 5E: Infiltrator
+# 🏠 SCENE 5E - Going Home
+You leave the station.
+The file's gone.
+The case is closed.
 
-You disguise yourself in stolen armor and board a Dominion shuttle. Your plan: reach the battle station and find the cloaked woman.
+You arrive home.
+Lights on. Doors locked.
+Safe.
 
-The inside is a steel labyrinth of danger and deception. But you overhear key intel — she’s still alive… for now.
+Until you see a shadow that shouldn't be there.
+It moves.
+You don’t.
 
-- 🔓 [Try to rescue her yourself](./scene6C.md)
+## ❌ GAME OVER
+The Hollow didn't need to drag you back.
+It waited in your walls.
+Now it wears your skin.
 
-- 🧙 [Wait for Old Ken and the others to join the rescue mission](./scene6B.md)
+- 🪶 [Restart](.scene1.md)

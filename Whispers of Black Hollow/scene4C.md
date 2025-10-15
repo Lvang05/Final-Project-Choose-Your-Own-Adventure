@@ -1,11 +1,18 @@
 
-# 🏃 SCENE 4C - Endless Trail
+# 🚘 SCENE 4D - Sealed In
+Doors locked.
+Windows up.
+You sit still.
 
-You run but the trail keeps looping.
+The fog curls around the car.
+Silent. Safe.
 
-You see a glowing black door.
+Then-
+a hand touches your shoulder.
+
+You're not alone.
 
 ## What do you do?
-- 🚪 [Open the door](./scene5E.md)
+- 🚪 [Unlock the door and run following the trail](./scene3A.md)
 
-- 🔁 [Keep running](./scene5F.md)
+- 😴 [Play dead](./scene5E.md)

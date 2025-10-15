@@ -1,9 +1,10 @@
 
 # 🌲 SCENE 2A: Road to Black Hollow
 
-The trees lean toward you. Fog wraps around your car. A crooked sign:
+The trees lean toward you. Fog wraps around your car. 
+A crooked sign:
 
-Welcome to Black Hollow - Population: ∞
+>Welcome to Black Hollow - Population: ∞
 
 ## What do you do?
 
