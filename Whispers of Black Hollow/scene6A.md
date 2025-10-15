@@ -1,5 +1,5 @@
 
-# 🚪 SCENE 6A — The Gate Opens
+# 🚪 SCENE 6A - The Gate Opens
 The key turns.
 
 The gate exhales.
@@ -7,7 +7,7 @@ The gate exhales.
 Beyond it: a pale, twitching forest.
 No wind. No sky. Just waiting.
 
-Then-
+Then -
 your own voice whispers behind you:
 >"Go on. It’s already inside you."
 
