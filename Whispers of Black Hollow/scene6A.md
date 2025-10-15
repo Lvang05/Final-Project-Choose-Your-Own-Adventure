@@ -1,12 +1,20 @@
 
-# 🌌 Scene 6A: Rebel Command
+# 🚪 SCENE 6A — The Gate Opens
+The key turns.
 
-You deliver the message to the rebel leaders. The stolen plans reveal the terrifying truth: the Dominion’s battle station is real — and nearly invincible.
+The gate exhales.
 
-Buried in the schematics is a weakness… but before the rebels can act, word arrives:
+Beyond it: a pale, twitching forest.
+No wind. No sky. Just waiting.
 
-> “The cloaked woman is aboard the station — and it’s heading to her homeworld.”
+Then-
+your own voice whispers behind you:
+>"Go on. It’s already inside you."
 
-- 🛰️ [Join a mission to rescue her and buy time](./scene7A.md)
+You’re alone.
 
-- ✈️ [Stay with the rebels and help plan the final assault](./scene7B.md)
+## What do you do?
+
+- 🧍 [Step through the gate](./scene7A.md)
+
+- 🪓 [Turn around and seal it shut](./scene7B.md)
