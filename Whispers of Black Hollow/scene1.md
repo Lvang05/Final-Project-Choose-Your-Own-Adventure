@@ -1,3 +1,4 @@
+
 # 🪶 SCENE 1 - The Invitation
 
 You receive a letter sealed in old wax.

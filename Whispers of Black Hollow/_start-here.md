@@ -1,3 +1,4 @@
+
 # 👻 Whispers of Black Hollow
 It started with a letter - handwritten in ink that smelled of ash, sealed with a name that should’ve stayed in the ground. Your grandfather’s name. But he’s been dead for nearly a decade.
 

@@ -1,3 +1,4 @@
+
 # Story Info: Whispers of Black Hollow
 ## An Interactive Horror Narrative with Branching Paths and Multiple Endings
 About the Story
