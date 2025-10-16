@@ -1,10 +1,13 @@
 
-# 🌠 Scene 8A: The Hidden Weakness
+# 🌠 Scene 8A: The Well
 
-The rebels analyze the plans from the droid. The weakness is real: a small exhaust port, no larger than a womp rat.
+The voices seem to be coming from the well
 
-A single fighter, using the Spark to guide their aim, could end the war before it begins.
+Faint whispers, too quiet to make out.
 
-> “We have one shot. Who’s flying lead?”
+You notice a ladder leading into the well, and a faint light at the bottom.
 
-- 🛩️ [Join the assault on the battle station](./scene9A.md)
+
+- 🛩️ [Climb down](./scene9A.md)
+
+- 🛩️ [Look at the statues](./scene8B.md)

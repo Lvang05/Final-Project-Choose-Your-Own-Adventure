@@ -1,10 +1,11 @@
 
-# 👸 Scene 7A: The Rescue
+# 👸 Scene 7A: The Courtyard
 
-You blast through Dominion patrols and reach the cloaked woman’s cell. She’s as sharp-tongued as she is brave.
+Your reach a courtyard a few hundred yards before the building.
+An overgrown courtyard with broken statues and a well in the center.
 
-> “Took you long enough. Let’s go blow something up.”
+ You can hear faint whispers.
 
-You escape through trash chutes, narrow corridors, and laser fire — until you reach the ship.
+- 🚀 [Inspec the well](./scene8A.md)
 
-- 🚀 [Return to the rebels with the plans and the princess](./scene8A.md)
+- 🚀 [Inspect the statues](./scene8B.md)

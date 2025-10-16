@@ -1,10 +1,10 @@
 
-# 🎯 Scene 8B: Call to Action
+# 🎯 Scene 8B: The Statues
 
-You’re chosen to lead the final assault. The cloaked woman watches from the command tower.
+One resembles your grandfather. A hidden inscription reads
 
-> “May the Spark be with you.”
+>"*The hollow remembers*"
 
-You climb into your starfighter, heart pounding, as the fleet launches toward the looming metal moon.
+- 🚀 [Go to the well](./scene9A.md)
 
-- 🚀 [Begin the final run](./scene9A.md)
+- 🚀 [Continue to the house](./scene9B.md)

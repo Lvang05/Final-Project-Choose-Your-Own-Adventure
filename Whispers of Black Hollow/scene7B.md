@@ -1,10 +1,8 @@
 
-# 📊 Scene 7B: The Briefing
+# 📊 Scene 7B: The Gate
 
-While others attempt the rescue, you stay behind. Rebel engineers analyze the battle station schematics.
+The gate suddenly closes as you try to leave.
 
-There’s a narrow exhaust port — a perfect hit there could trigger a chain reaction and destroy the entire station.
+With no choice, you turn around. Something about the building feels, *familiar*.
 
-It’ll take precise flying… and faith in the Spark.
-
-- 🎯 [Volunteer for the assault](./scene8B.md)
+- 🎯 [Head to the building](./scene7a.md)

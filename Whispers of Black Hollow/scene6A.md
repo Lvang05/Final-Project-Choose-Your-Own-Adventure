@@ -5,7 +5,7 @@ The key turns.
 The gate exhales.
 
 Beyond it: a pale, twitching forest.
-No wind. No sky. Just waiting.
+An old building in the distance.
 
 Then -
 your own voice whispers behind you:
@@ -15,6 +15,6 @@ You’re alone.
 
 ## What do you do?
 
-- 🧍 [Step through the gate](./scene7A.md)
+- 🧍 [Go the building](./scene7A.md)
 
 - 🪓 [Turn around and seal it shut](./scene7B.md)
