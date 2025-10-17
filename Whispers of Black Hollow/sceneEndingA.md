@@ -1,15 +1,11 @@
 
-# 💥 Scene 12: Grandfather (continued)
+# 💥 Ending 1: Rejection
 
-The inscription is a list of names. It looks familiar...
-All the names are crossed off except one.
+>*I am not your heir*"
 
-Yours.
+Your grandfather is stunned by the  rejection.
 
-Above it is your grandfathers.
+His anger begins to crumble the walls around you.
+In his rage you flee, breaking the cycle and leavin the hollow crumbling behind you.
 
-Beneath the names, 4 short words.
-
->"*The Black Hollow Feeds*"
-
-- 🧮 [Continue](./sceneEndingA.md)
+>Victory

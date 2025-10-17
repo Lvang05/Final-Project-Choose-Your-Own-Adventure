@@ -1,15 +1,14 @@
 
-# 💥 Scene 11: Inscription
+# 💥 Ending 4: Flee
 
-The inscription is a list of names. It looks familiar...
-All the names are crossed off except one.
+You try to run back down the tunnel without saying anything.
 
-Yours.
+The voices come back, louder and louder until you cant hear anything.
 
-Above it is your grandfathers.
+The noise becomes so loud you fall to your knees, unable to resist it.
 
-Beneath the names, 4 short words.
+The Hollow Feeds off your weakness.
 
->"*The Black Hollow Feeds*"
+>Failure
 
-- 🧮 [Continue](./scene12A.md)
+- 🪶 [Restart](./scene1.md)

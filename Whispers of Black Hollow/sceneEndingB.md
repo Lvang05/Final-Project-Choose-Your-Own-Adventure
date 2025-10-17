@@ -1,15 +1,9 @@
 
-# 💥 Scene 11: Inscription
+# 💥 Ending 2: Accept his Legacy
 
-The inscription is a list of names. It looks familiar...
-All the names are crossed off except one.
+>*Teach me*"
 
-Yours.
+You take his hand and suddenly feel an intese amount of power surge through your body
+You become the Keeper of the Hollow, replacing your grandfather.
 
-Above it is your grandfathers.
-
-Beneath the names, 4 short words.
-
->"*The Black Hollow Feeds*"
-
-- 🧮 [Continue](./scene12A.md)
+>Alternate Victory

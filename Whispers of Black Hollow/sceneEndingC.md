@@ -1,15 +1,12 @@
 
-# 💥 Scene 11: Inscription
+# 💥 Ending 3: Attack
 
-The inscription is a list of names. It looks familiar...
-All the names are crossed off except one.
+You attack this fraudulent scum that claims to be your grandpa and instantly feel the power of the Hollow.
 
-Yours.
+>"*You are weak*"
 
-Above it is your grandfathers.
+Your grandfather laughs as he crushes you beneath the darkness.
 
-Beneath the names, 4 short words.
+>Failure
 
->"*The Black Hollow Feeds*"
-
-- 🧮 [Continue](./scene12A.md)
+- 🪶 [Restart](./scene1.md)
