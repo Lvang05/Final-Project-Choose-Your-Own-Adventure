@@ -1,5 +1,5 @@
 
-# 💥 Scene 11: Inscription
+# 🧮 Scene 11: Inscription
 
 The inscription is a list of names. It looks familiar...
 All the names are crossed off except one.
@@ -12,4 +12,4 @@ Beneath the names, 4 short words.
 
 >"*The Black Hollow Feeds*"
 
-- 🧮 [Continue](./scene12.md)
+- [Continue](./scene12.md)

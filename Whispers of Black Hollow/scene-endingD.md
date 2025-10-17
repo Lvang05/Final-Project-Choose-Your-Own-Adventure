@@ -1,5 +1,5 @@
 
-# 💥 Ending 4: Flee
+# 🏃 Ending 4: Flee
 
 You try to run back down the tunnel without saying anything.
 

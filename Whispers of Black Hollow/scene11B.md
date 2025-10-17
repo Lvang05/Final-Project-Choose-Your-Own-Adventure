@@ -1,5 +1,5 @@
 
-# 💥 Scene 11: Key
+# 🔑 Scene 11: Key
 
 You grab the key and instantly your hand turns black.
 

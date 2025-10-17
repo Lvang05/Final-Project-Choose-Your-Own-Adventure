@@ -15,6 +15,6 @@ You’re alone.
 
 ## What do you do?
 
-- 🧍 [Go the building](./scene7A.md)
+- 🏠 [Go the building](./scene7A.md)
 
-- 🪓 [Turn around and seal it shut](./scene7B.md)
+- 🔧 [Turn around and seal it shut](./scene7B.md)

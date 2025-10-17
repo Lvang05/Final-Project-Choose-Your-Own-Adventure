@@ -1,5 +1,5 @@
 
-# 💥 Ending 3: Attack
+# 🔪 Ending 3: Attack
 
 You attack this fraudulent scum that claims to be your grandpa and instantly feel the power of the Hollow.
 

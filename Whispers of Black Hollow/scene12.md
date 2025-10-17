@@ -1,5 +1,5 @@
 
-# 💥 Scene 12: Grandfather
+# 👴 Scene 12: Grandfather
 
 You speak the words out loud. It feels right.
 
@@ -17,8 +17,8 @@ The little bit of light in the room comes back, and before you is your grandfath
 
 - 🧮 [Reject him](./sceneEndingA.md)
 
-- 🧮 [Take his hand](./sceneEndingB.md)
+- 👋 [Take his hand](./sceneEndingB.md)
 
-- 🧮 [Attack him](./sceneEndingC.md)
+- 🔪 [Attack him](./sceneEndingC.md)
 
-- 🧮 [Run](./sceneEndingD.md)
+- 🏃 [Run](./sceneEndingD.md)

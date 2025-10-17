@@ -1,5 +1,5 @@
 
-# 💥 Ending 2: Accept his Legacy
+# 👋 Ending 2: Accept his Legacy
 
 >*Teach me*"
 

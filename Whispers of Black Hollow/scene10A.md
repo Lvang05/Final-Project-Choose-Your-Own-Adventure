@@ -8,4 +8,4 @@ Behind it is an inscription.
 
 - 🧮 [Read inscription](./scene11A.md)
 
-- 🧮 [Use key](./scene11B.md)
+- 🔑 [Use key](./scene11B.md)
