@@ -21,4 +21,4 @@ No space between.
 You didn’t run fast enough.
 You never could.
 
-- 🪶 [Restart](.scene1.md)
+- 🪶 [Restart](./scene1.md)

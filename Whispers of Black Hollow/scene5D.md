@@ -12,4 +12,4 @@ Then-
 ## ❌ GAME OVER
 You're not pretending anymore.
 
-- 🪶 [Restart](.scene1.md)
+- 🪶 [Restart](./scene1.md)

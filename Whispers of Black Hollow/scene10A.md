@@ -1,8 +1,11 @@
 
-# 💥 Ending: Failure
+# 💥 Scene 10: The Ritual
 
-You rely on the computer — but the shot misses. Dominion fighters close in. Your ship is destroyed in a flash of light.
+You make it to the end and the voices cut off in sync.
 
-Without your spark, the rebellion fades into silence.
+A low light illuminates a pedestal. On the pedastal lies a key.
+Behind it is an inscription.
 
-> ☠️ Sometimes, courage isn’t enough.
+- 🧮 [Read inscription](./scene11A.md)
+
+- 🧮 [Use key](./scene11B.md)

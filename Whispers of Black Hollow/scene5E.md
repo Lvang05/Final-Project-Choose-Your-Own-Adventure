@@ -17,4 +17,4 @@ The Hollow didn't need to drag you back.
 It waited in your walls.
 Now it wears your skin.
 
-- 🪶 [Restart](.scene1.md)
+- 🪶 [Restart](./scene1.md)

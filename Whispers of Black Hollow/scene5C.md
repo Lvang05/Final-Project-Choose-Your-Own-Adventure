@@ -14,4 +14,4 @@ And it’s breathing through your silence.
 You didn't take the light.
 Now it wears your shadow.
 
-- 🪶 [Restart](.scene1.md)
+- 🪶 [Restart](./scene1.md)

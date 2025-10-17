@@ -1,13 +1,9 @@
 
 # 🛩️ Scene 9A: The Tunnel
 
-You make your way to the bottom and the voices get louder.
-You can almost make them out.
+As you leave the courtyard the voices get louder.
+You start to realize you aren't interested in the house.
 
-> “*The ritual - the vessel*”
+*The courtyard is pulling you in*
 
-None of it makes any sense.
-
-The light is coming from the end of the tunnel...
-
-- 🧮 [Follow the light](./scene10A.md)
+- 🧮 [Go back to the courtyard](./scene7A.md)
