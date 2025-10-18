@@ -15,10 +15,10 @@ The little bit of light in the room comes back, and before you is your grandfath
 
 "*Take my hand. Join the Hollow*"
 
-- 🧮 [Reject him](./sceneEndingA.md)
+- 🧮 [Reject him](./scene-endingA.md)
 
-- 👋 [Take his hand](./sceneEndingB.md)
+- 👋 [Take his hand](./scene-endingB.md)
 
-- 🔪 [Attack him](./sceneEndingC.md)
+- 🔪 [Attack him](./scene-endingC.md)
 
-- 🏃 [Run](./sceneEndingD.md)
+- 🏃 [Run](./scene-endingD.md)
